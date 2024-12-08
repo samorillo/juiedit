@@ -1,0 +1,657 @@
+{
+    "rootFrequency": 261.625565301,
+    "rootId": 0,
+    "score": [
+        {
+            "durationInTakts": 5,
+            "id": 0,
+            "parentId": -1,
+            "positionInTaktsFromParent": 0,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 1,
+            "parentId": 0,
+            "positionInTaktsFromParent": 5,
+            "ratioFromParent": [
+                3,
+                4
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 2,
+            "parentId": 0,
+            "positionInTaktsFromParent": 0,
+            "ratioFromParent": [
+                2,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 3,
+            "parentId": 2,
+            "positionInTaktsFromParent": 0,
+            "ratioFromParent": [
+                3,
+                2
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 4,
+            "parentId": 2,
+            "positionInTaktsFromParent": 0,
+            "ratioFromParent": [
+                5,
+                4
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 5,
+            "parentId": 2,
+            "positionInTaktsFromParent": 1,
+            "ratioFromParent": [
+                7,
+                8
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 6,
+            "parentId": 4,
+            "positionInTaktsFromParent": 1,
+            "ratioFromParent": [
+                8,
+                9
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 7,
+            "parentId": 0,
+            "positionInTaktsFromParent": 1,
+            "ratioFromParent": [
+                11,
+                4
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 8,
+            "parentId": 0,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                3,
+                2
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 9,
+            "parentId": 8,
+            "positionInTaktsFromParent": 0,
+            "ratioFromParent": [
+                5,
+                3
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 10,
+            "parentId": 8,
+            "positionInTaktsFromParent": 0,
+            "ratioFromParent": [
+                4,
+                3
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 11,
+            "parentId": 6,
+            "positionInTaktsFromParent": 3,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 12,
+            "parentId": 10,
+            "positionInTaktsFromParent": 3,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 13,
+            "parentId": 9,
+            "positionInTaktsFromParent": 4,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 14,
+            "parentId": 5,
+            "positionInTaktsFromParent": 3,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 15,
+            "parentId": 8,
+            "positionInTaktsFromParent": 3,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 16,
+            "parentId": 10,
+            "positionInTaktsFromParent": 4,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 17,
+            "parentId": 0,
+            "positionInTaktsFromParent": 5,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 18,
+            "parentId": 0,
+            "positionInTaktsFromParent": 4,
+            "ratioFromParent": [
+                5,
+                4
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 19,
+            "parentId": 15,
+            "positionInTaktsFromParent": 1,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 3,
+            "id": 20,
+            "parentId": 0,
+            "positionInTaktsFromParent": 7,
+            "ratioFromParent": [
+                7,
+                8
+            ]
+        },
+        {
+            "durationInTakts": 4,
+            "id": 21,
+            "parentId": 17,
+            "positionInTaktsFromParent": 5,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 22,
+            "parentId": 13,
+            "positionInTaktsFromParent": 1,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 23,
+            "parentId": 3,
+            "positionInTaktsFromParent": 7,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 24,
+            "parentId": 23,
+            "positionInTaktsFromParent": 5,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 25,
+            "parentId": 23,
+            "positionInTaktsFromParent": 3,
+            "ratioFromParent": [
+                7,
+                6
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 26,
+            "parentId": 16,
+            "positionInTaktsFromParent": 1,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 27,
+            "parentId": 26,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                13,
+                8
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 28,
+            "parentId": 7,
+            "positionInTaktsFromParent": 8,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 29,
+            "parentId": 11,
+            "positionInTaktsFromParent": 5,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 30,
+            "parentId": 23,
+            "positionInTaktsFromParent": 3,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 31,
+            "parentId": 22,
+            "positionInTaktsFromParent": 5,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 32,
+            "parentId": 22,
+            "positionInTaktsFromParent": 3,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 33,
+            "parentId": 26,
+            "positionInTaktsFromParent": 5,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 34,
+            "parentId": 21,
+            "positionInTaktsFromParent": 4,
+            "ratioFromParent": [
+                9,
+                8
+            ]
+        },
+        {
+            "durationInTakts": 5,
+            "id": 35,
+            "parentId": 21,
+            "positionInTaktsFromParent": 6,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 36,
+            "parentId": 24,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                4,
+                3
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 37,
+            "parentId": 25,
+            "positionInTaktsFromParent": 4,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 38,
+            "parentId": 24,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 39,
+            "parentId": 31,
+            "positionInTaktsFromParent": 4,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 40,
+            "parentId": 28,
+            "positionInTaktsFromParent": 6,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 41,
+            "parentId": 27,
+            "positionInTaktsFromParent": 6,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 42,
+            "parentId": 37,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 43,
+            "parentId": 38,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 44,
+            "parentId": 43,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 45,
+            "parentId": 40,
+            "positionInTaktsFromParent": 4,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 46,
+            "parentId": 39,
+            "positionInTaktsFromParent": 4,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 47,
+            "parentId": 36,
+            "positionInTaktsFromParent": 1,
+            "ratioFromParent": [
+                15,
+                16
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 48,
+            "parentId": 39,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 49,
+            "parentId": 33,
+            "positionInTaktsFromParent": 6,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 50,
+            "parentId": 29,
+            "positionInTaktsFromParent": 10,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 51,
+            "parentId": 14,
+            "positionInTaktsFromParent": 15,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 52,
+            "parentId": 49,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 53,
+            "parentId": 19,
+            "positionInTaktsFromParent": 14,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 54,
+            "parentId": 35,
+            "positionInTaktsFromParent": 5,
+            "ratioFromParent": [
+                5,
+                4
+            ]
+        },
+        {
+            "durationInTakts": 2,
+            "id": 55,
+            "parentId": 35,
+            "positionInTaktsFromParent": 7,
+            "ratioFromParent": [
+                11,
+                8
+            ]
+        },
+        {
+            "durationInTakts": 3,
+            "id": 56,
+            "parentId": 35,
+            "positionInTaktsFromParent": 9,
+            "ratioFromParent": [
+                3,
+                2
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 57,
+            "parentId": 50,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 58,
+            "parentId": 52,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 5,
+            "id": 59,
+            "parentId": 57,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 60,
+            "parentId": 51,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 61,
+            "parentId": 53,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 5,
+            "id": 62,
+            "parentId": 60,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 5,
+            "id": 63,
+            "parentId": 54,
+            "positionInTaktsFromParent": 2,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        },
+        {
+            "durationInTakts": 1,
+            "id": 64,
+            "parentId": 35,
+            "positionInTaktsFromParent": 6,
+            "ratioFromParent": [
+                1,
+                1
+            ]
+        }
+    ],
+    "taktDurationInSeconds": 1.0
+}

@@ -1,0 +1,1 @@
+call buildCommands\build_run.bat
